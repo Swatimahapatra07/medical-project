@@ -1,0 +1,35 @@
+# Virtual Environments
+medical/
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+.env.*
+
+# Data and Vector Stores
+vectorstore/
+data/
+
+# Logs
+logs/
+*.log
+
+
+# Python Build Files
+*.egg-info/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
